@@ -57,8 +57,8 @@
     </div><!-- /.header-top -->
     <nav class="navbar navbar-expand-lg sticky-navbar">
         <div class="container-fluid">
-            <a class="navbar-brand" href="index.html">
-                <img src="assets/images/logo/logo-dark.png" class="logo-dark" alt="logo">
+            <a class="navbar-brand" href="index.php">
+                <img style="width: 15rem;" src="assets/images/logo/02.png" class="Dr. Miguel Blanco" alt="logo">
             </a>
             <button class="navbar-toggler" type="button">
                 <span class="menu-lines"><span></span></span>
@@ -85,7 +85,7 @@
             <div class="d-none d-xl-flex align-items-center position-relative ml-30">
                 <ul class="header-actions d-flex align-items-center position-relative list-unstyled mb-0">
                     <li>
-                        <a href="tests-book-visit.html" class="btn btn-secondary btn-contact">Citas</a>
+                        <a href="index.php#contact" class="btn btn-secondary btn-contact">Citas</a>
                     </li>
                     <li class="contact-phone d-flex align-items-center">
                         <div class="contact-icon"><i class="icon-phone"></i></div>
