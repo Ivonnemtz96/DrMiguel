@@ -55,12 +55,12 @@
   --font-size-base: 15px;
   --font-primary: "Lexend", sans-serif;
   --font-secondary: "Roboto", sans-serif;
-  --color-primary: #21cdad;
-  --color-secondary: #002678;
+  --color-primary: #2eb4c3;
+  --color-secondary: #2776b8;
   --color-primary-rgb: 33, 205, 173;
   --color-secondary-rgb: 0, 38, 120;
   --color-white: #ffffff;
-  --color-accent: #00226c;
+  --color-accent: #2776b8;
   --color-dark: #222222;
   --color-light: #6d6fb3;
   --bs-gray: #828599;
@@ -958,9 +958,9 @@ a.color-white-hover:hover {
 }
 
 .bg-overlay-primary-gradient:before {
-  opacity: 0.95;
-  background-color: var(--color-primary);
-  background-image: linear-gradient(90deg, rgba(6, 70, 178, 0) 0%, rgba(11, 173, 246, 0) 3%, rgb(var(--color-primary-rgb)) 80%);
+  opacity: 0.75;
+  background-color: #2eb4c3;
+  background-image: linear-gradient(90deg, rgba(38, 118, 184, 0) 0%, rgba(1, 50, 92, 0) 3%, rgb(var(--color-primary-rgb)) 80%);
 }
 
 .bg-overlay-secondary-gradient:before {
