@@ -16,7 +16,7 @@
                                 rápida recuperación <br><br><br><br>
                             </p>
                             <div class="d-flex flex-wrap align-items-center">
-                                <a href="tests-services.html" class="btn btn-white btn-xl mr-30">
+                                <a href="index.php#contact" class="btn btn-white btn-xl mr-30">
                                     <i class="icon-arrow-right"></i>
                                     <span>Agendar cita</span>
                                 </a>
@@ -123,7 +123,7 @@
                             </div>
                         </li>
                     </ul>
-                    <a href="tests-book-visit.html" class="btn btn-secondary btn-xl">
+                    <a href="index.php#contact" class="btn btn-secondary btn-xl">
                         <i class="icon-arrow-right"></i>
                         <span>Agenda Cita</span>
                     </a>
@@ -148,7 +148,7 @@
                         operación, teniendo un caso de éxito.
                     </p>
                     <div class="d-flex align-items-center flex-wrap mt-30">
-                        <a href="tests-services.html" class="btn btn-secondary btn-xl mb-20 mr-30">
+                        <a href="index.php#contact" class="btn btn-secondary btn-xl mb-20 mr-30">
                             <i class="icon-arrow-right"></i>
                             <span>Agendar cita</span>
                         </a>
@@ -244,7 +244,7 @@
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="research-single.html">Servicio 1</a>
+                            <a href="#">Servicio 1</a>
                         </h4>
                         <p>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
@@ -261,7 +261,7 @@
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="research-single.html">Servicio 1</a>
+                            <a href="#">Servicio 2</a>
                         </h4>
                         <p>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
@@ -278,7 +278,7 @@
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="research-single.html">Servicio 1</a>
+                            <a href="#">Servicio 3</a>
                         </h4>
                         <p>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
@@ -295,7 +295,7 @@
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="research-single.html">Servicio 1</a>
+                            <a href="#">Servicio 4</a>
                         </h4>
                         <p>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
@@ -312,7 +312,7 @@
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="research-single.html">Servicio 1</a>
+                            <a href="#">Servicio 5</a>
                         </h4>
                         <p>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
@@ -329,7 +329,7 @@
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="research-single.html">Servicio 1</a>
+                            <a href="#">Servicio 6</a>
                         </h4>
                         <p>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus

@@ -27,7 +27,7 @@
                             <li>
                                 <p class="promo-text color-white mb-0">
                                     Descubre la excelencia en cirugía laparoscópica con el Dr. Miguel.
-                                    <a href="about-us.html">
+                                    <a href="index.php#about">
                                         <span>Sobre mi</span>
                                         <i class="icon-arrow-right"></i>
                                     </a>
