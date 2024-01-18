@@ -2,7 +2,7 @@
     <div class="slick-carousel carousel-dots-light m-slides-0"
         data-slick='{"slidesToShow": 1, "arrows": true, "dots": false "speed": 700,"fade": true,"cssEase": "linear"}'>
         <div class="slide-item bg-overlay align-v-h">
-            <div class="bg-img"><img src="assets/images/sliders/3.jpg" alt="slide img"></div>
+            <div class="bg-img"><img src="assets/images/sliders/9.jpg" alt="slide img"></div>
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-12 col-xl-8">
@@ -34,7 +34,7 @@
             </div><!-- /.container -->
         </div><!-- /.slide-item -->
         <div class="slide-item bg-overlay align-v-h">
-            <div class="bg-img"><img src="assets/images/sliders/4.jpg" alt="slide img"></div>
+            <div class="bg-img"><img src="assets/images/sliders/10.jpg" alt="slide img"></div>
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-12 col-xl-7">
@@ -85,9 +85,9 @@
         <div class="row">
             <div class="col-sm-12 col-md-10 col-lg-10 col-xl-7">
                 <div class="about-img">
-                    <img src="assets/images/about/1.png" alt="about" class="w-100">
+                    <img src="assets/images/about/7.jpg" alt="about" class="w-100">
                     <div class="about-banner">
-                        <div class="about-icon"><i class="icon-mortar"></i></div>
+                        <div class="about-icon"><img src="assets/images/icons/1.png" alt=""></div>
                         <p class="banner-text color-white mb-0">6 años de experiencia</p>
                     </div>
                 </div>
@@ -158,7 +158,7 @@
             <div class="col-md-7 col-lg-6 col-xl-6 offset-xl-1">
                 <div class="banner-img">
                     <div class="video-banner">
-                        <img src="assets/images/banners/9.jpg" alt="banner" class="rounded-4 w-100">
+                        <img src="assets/images/about/8.jpg" alt="banner" class="rounded-4 w-100">
                         <!-- <a class="video-btn video-btn-white popup-video"
                             href="https://www.youtube.com/watch?v=TKnufs85hXk">
                             <div class="video-player">
@@ -187,38 +187,38 @@
             data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "autoplay": true, "arrows": true, "dots": false, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 3}}, {"breakpoint": 767, "settings": {"slidesToShow":2}}, {"breakpoint": 480, "settings": {"slidesToShow": 1}}]}'>
             <!-- Gallery item #1 -->
             <div class="gallery-img">
-                <a class="popup-gallery-item" href="assets/images/gallery/10.jpg">
-                    <img src="assets/images/gallery/10.jpg" alt="gallery img">
+                <a class="popup-gallery-item" href="assets/images/gallery/12.jpg">
+                    <img src="assets/images/gallery/12.jpg" alt="gallery img">
                 </a>
             </div><!-- /.gallery-img -->
             <!-- Gallery item #2 -->
             <div class="gallery-img">
-                <a class="popup-gallery-item" href="assets/images/gallery/11.jpg">
-                    <img src="assets/images/gallery/11.jpg" alt="gallery img">
+                <a class="popup-gallery-item" href="assets/images/gallery/13.jpg">
+                    <img src="assets/images/gallery/13.jpg" alt="gallery img">
                 </a>
             </div><!-- /.gallery-img -->
             <!-- Gallery item #3 -->
             <div class="gallery-img">
-                <a class="popup-gallery-item" href="assets/images/gallery/3.jpg">
-                    <img src="assets/images/gallery/3.jpg" alt="gallery img">
+                <a class="popup-gallery-item" href="assets/images/gallery/14.jpg">
+                    <img src="assets/images/gallery/14.jpg" alt="gallery img">
                 </a>
             </div><!-- /.gallery-img -->
             <!-- Gallery item #4 -->
             <div class="gallery-img">
-                <a class="popup-gallery-item" href="assets/images/gallery/4.jpg">
-                    <img src="assets/images/gallery/4.jpg" alt="gallery img">
+                <a class="popup-gallery-item" href="assets/images/gallery/15.jpg">
+                    <img src="assets/images/gallery/15.jpg" alt="gallery img">
                 </a>
             </div><!-- /.gallery-img -->
             <!-- Gallery item #5 -->
             <div class="gallery-img">
-                <a class="popup-gallery-item" href="assets/images/gallery/5.jpg">
-                    <img src="assets/images/gallery/5.jpg" alt="gallery img">
+                <a class="popup-gallery-item" href="assets/images/gallery/16.jpg">
+                    <img src="assets/images/gallery/16.jpg" alt="gallery img">
                 </a>
             </div><!-- /.gallery-img -->
             <!-- Gallery item #6 -->
             <div class="gallery-img">
-                <a class="popup-gallery-item" href="assets/images/gallery/6.jpg">
-                    <img src="assets/images/gallery/6.jpg" alt="gallery img">
+                <a class="popup-gallery-item" href="assets/images/gallery/17.jpg">
+                    <img src="assets/images/gallery/17.jpg" alt="gallery img">
                 </a>
             </div><!-- /.gallery-img -->
         </div>
@@ -240,7 +240,7 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/1.jpg" alt="service">
+                        <img src="assets/images/services/7.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
@@ -257,7 +257,7 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/1.jpg" alt="service">
+                        <img src="assets/images/services/7.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
@@ -274,7 +274,7 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/1.jpg" alt="service">
+                        <img src="assets/images/services/7.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
@@ -291,7 +291,7 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/1.jpg" alt="service">
+                        <img src="assets/images/services/7.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
@@ -308,7 +308,7 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/1.jpg" alt="service">
+                        <img src="assets/images/services/7.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
@@ -325,7 +325,7 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/1.jpg" alt="service">
+                        <img src="assets/images/services/7.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
@@ -381,7 +381,7 @@
                     <div class="slider-nav-thumbnails">
                         <div class="testimonial-meta d-flex align-items-center">
                             <div class="testimonial-thmb">
-                                <img src="assets/images/testimonials/thumbs/3.jpg" alt="thumb">
+                                <img src="assets/images/testimonials/thumbs/8.jpg" alt="thumb">
                             </div>
                             <div>
                                 <h4 class="testimonial-meta-title">Cliente 1</h4>
@@ -389,7 +389,7 @@
                         </div><!-- /.testimonials-meta -->
                         <div class="testimonial-meta d-flex align-items-center">
                             <div class="testimonial-thmb">
-                                <img src="assets/images/testimonials/thumbs/1.jpg" alt="thumb">
+                                <img src="assets/images/testimonials/thumbs/8.jpg" alt="thumb">
                             </div>
                             <div>
                                 <h4 class="testimonial-meta-title">Cliente 2</h4>
@@ -462,6 +462,7 @@
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section>
+
 <section class="mapa" style="padding-top: 0; padding-bottom: 0;">
     <div class="container-fluid px-0">
         <iframe
