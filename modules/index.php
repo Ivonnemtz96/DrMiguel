@@ -68,7 +68,7 @@
     </div><!-- /.carousel -->
 </section>
 
-<section class="about-layout1 pt-90 pb-130" id="about">
+<section class="about-layout1 pt-90" style="padding: 0;" id="about">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
@@ -95,13 +95,17 @@
             <div class="col-sm-12 col-md-10 col-lg-10 col-xl-5">
                 <div class="about-text">
                     <p class="color-secondary mb-30">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique animi, sequi officiis quos
-                        eligendi aliquam blanditiis ea, vitae repudiandae culpa ullam necessitatibus quia esse beatae?
+                        Médico egresado con distinción de la Universidad Nacional Autónoma de México (UNAM). Mi
+                        trayectoria profesional se ha enfocado en ofrecer atención médica de calidad, respaldada por una
+                        sólida formación académica y una pasión por el cuidado de la salud.
                     </p>
                     <p class="mb-30">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis earum voluptatem ex voluptas
-                        molestias assumenda ipsam ullam quisquam deserunt amet magnam libero sapiente porro ipsa,
-                        delectus deleniti culpa autem atque.
+                        Mi compromiso con la excelencia me llevó a especializarme en laparoscopía en el
+                        prestigioso Hospital Central Norte de Petróleos Mexicanos (PEMEX), donde adquirí habilidades
+                        especializadas y experiencia práctica en el tratamiento de diversas condiciones médicas. <br>
+                        En mi práctica médica, combino los últimos avances tecnológicos con un enfoque humanizado, para
+                        ofrecer diagnósticos precisos y tratamientos efectivos. Me enorgullece poder contribuir al
+                        bienestar de la comunidad y trabajar junto a mis pacientes para alcanzar sus metas de salud.
                     </p>
                     <ul class="features-list-layout1 list-unstyled mb-40">
                         <li class="feature-item d-flex align-items-center">
@@ -113,7 +117,7 @@
                         <li class="feature-item">
                             <div class="feature-icon"><i class="icon-check"></i></div>
                             <div class="feature-body">
-                                <h4 class="feature-title">Confianza</h4>
+                                <h4 class="feature-title">Trabajando para el IMSS y Hospital Gral.</h4>
                             </div>
                         </li>
                         <li class="feature-item">
@@ -133,7 +137,46 @@
     </div><!-- /.container -->
 </section>
 
-<section class="banner-layout6 bg-gray-gradient py-0">
+<section class="clients mb-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-lg-12 col-xl-10 offset-xl-1 px-xl-5">
+                <div class="row align-items-center">
+                    <div class="col-md-12 col-lg-12 col-xl-4">
+                        <p class="fw-bold mb-0">
+                            Lugares en los que he prestado servicios médicos profesionales de Laparascopía.
+                        </p>
+                    </div><!-- /.col-xl-4 -->
+                    <div class="col-md-12 col-lg-12 col-xl-8">
+                        <div class="slick-carousel"
+                            data-slick='{"slidesToShow": 3, "arrows": false, "dots": false, "autoplay": true,"autoplaySpeed": 2000, "infinite": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 2}}, {"breakpoint": 767, "settings": {"slidesToShow": 2}}, {"breakpoint": 480, "settings": {"slidesToShow": 2}}]}'>
+                            <div class="client">
+                                <img src="assets/images/clients/7.png" alt="client">
+                            </div><!-- /.client -->
+                            <div class="client">
+                                <img src="assets/images/clients/8.png" alt="client">
+                            </div><!-- /.client -->
+                            <div class="client">
+                                <img src="assets/images/clients/9.png" alt="client">
+                            </div><!-- /.client -->
+                            <div class="client">
+                                <img src="assets/images/clients/10.png" alt="client">
+                            </div><!-- /.client -->
+                            <div class="client">
+                                <img src="assets/images/clients/11.png" alt="client">
+                            </div><!-- /.client -->
+                            <div class="client">
+                                <img src="assets/images/clients/12.png" alt="client">
+                            </div><!-- /.client -->
+                        </div><!-- /.carousel -->
+                    </div><!-- /.col-xl-8 -->
+                </div><!-- /.row -->
+            </div><!-- /.col-12 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>
+
+<section hidden class="banner-layout6 bg-gray-gradient py-0">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-lg-6 col-xl-5">
@@ -240,16 +283,15 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/7.jpg" alt="service">
+                        <img src="assets/images/services/8.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="#">Servicio 1</a>
+                            <a href="#">Reparación de hernia inguinal por laparoscopia</a>
                         </h4>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
-                            dignissimos odit a suscipit officia tempora iusto quam! Maxime iure impedit nemo quisquam
-                            repudiandae necessitatibus voluptatibus vel animi vero.
+                            Con un enfoque mínimamente invasivo, brindamos una solución precisa y efectiva para
+                            restaurar su salud abdominal. <br><br><br>
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
@@ -257,16 +299,16 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/7.jpg" alt="service">
+                        <img src="assets/images/services/9.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="#">Servicio 2</a>
+                            <a href="#">Colecistectomía laparoscópica</a>
                         </h4>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
-                            dignissimos odit a suscipit officia tempora iusto quam! Maxime iure impedit nemo quisquam
-                            repudiandae necessitatibus voluptatibus vel animi vero.
+                            Descubra una solución avanzada para la extracción de la vesícula biliar: la colecistectomía
+                            laparoscópica. Nuestro equipo especializado ofrece un enfoque mínimamente invasivo que
+                            garantiza una recuperación más rápida y menos molestias postoperatorias.
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
@@ -274,16 +316,15 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/7.jpg" alt="service">
+                        <img src="assets/images/services/10.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="#">Servicio 3</a>
+                            <a href="#">Cirugía por hernia hiatal (funduplicatura laparoscópica)</a>
                         </h4>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
-                            dignissimos odit a suscipit officia tempora iusto quam! Maxime iure impedit nemo quisquam
-                            repudiandae necessitatibus voluptatibus vel animi vero.
+                            Recupere el bienestar gastrointestinal con nuestra técnica avanzada y experimente una
+                            recuperación más rápida y cómoda.
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
@@ -291,16 +332,16 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/7.jpg" alt="service">
+                        <img src="assets/images/services/11.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="#">Servicio 4</a>
+                            <a href="#">Reparación de hernia umbilical</a>
                         </h4>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
-                            dignissimos odit a suscipit officia tempora iusto quam! Maxime iure impedit nemo quisquam
-                            repudiandae necessitatibus voluptatibus vel animi vero.
+                            Alivio y recuperación con nuestra reparación de hernia umbilical. Nuestro enfoque experto y
+                            mínimamente invasivo le ofrece una solución segura y efectiva para restaurar la salud
+                            abdominal.
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
@@ -308,16 +349,15 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/7.jpg" alt="service">
+                        <img src="assets/images/services/12.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="#">Servicio 5</a>
+                            <a href="#">Cirugía de tiroides</a>
                         </h4>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
-                            dignissimos odit a suscipit officia tempora iusto quam! Maxime iure impedit nemo quisquam
-                            repudiandae necessitatibus voluptatibus vel animi vero.
+                            Nuestro equipo especializado ofrece soluciones quirúrgicas avanzadas para tratar condiciones
+                            de la tiroides con precisión y cuidado. <br>
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
@@ -325,21 +365,122 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/7.jpg" alt="service">
+                        <img src="assets/images/services/13.jpg" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
-                            <a href="#">Servicio 6</a>
+                            <a href="#">Apendicetomía laparoscópica</a>
                         </h4>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt ratione possimus
-                            dignissimos odit a suscipit officia tempora iusto quam! Maxime iure impedit nemo quisquam
-                            repudiandae necessitatibus voluptatibus vel animi vero.
+                            Nuestro equipo altamente capacitado garantiza una cirugía precisa y una recuperación más
+                            rápida. Confíe en nosotros para un tratamiento seguro y efectivo de su apendicitis.
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
             </div>
         </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>
+
+<section class="services-layout2 services-carousel pb-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="heading text-center mb-50">
+                    <h3 class="heading-subtitle color-primary">Otros </h3>
+                    <h3 class="heading-title">Procedimientos y padecimientos</h3>
+                </div><!-- /.heading-layout2 -->
+            </div><!-- /.col-xl-6 -->
+        </div><!-- /.row -->
+        <div class="row">
+            <div class="col-12">
+                <div class="slick-carousel"
+                    data-slick='{"slidesToShow": 3, "slidesToScroll": 1, "arrows": true, "dots": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 2}}, {"breakpoint": 767, "settings": {"slidesToShow": 2}}, {"breakpoint": 480, "settings": {"slidesToShow": 1}}]}'>
+                    <!-- service item #1 -->
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="assets/images/services/14.jpg" alt="service">
+                        </div><!-- /.service-img -->
+                        <div class="service-body">
+                            <h4 class="service-title">
+                                Pie diabético
+                            </h4>
+                            <p class="service-desc">
+                                Enfrentando el desafío del pie diabético: nuestro equipo especializado ofrece un enfoque
+                                integral para el manejo y tratamiento de esta condición. Desde la prevención hasta la
+                                atención avanzada, estamos comprometidos a salvaguardar su salud y bienestar
+                            </p>
+                        </div><!-- /.service-body -->
+                    </div><!-- /.service-item -->
+                    <!-- service item #2 -->
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="assets/images/services/15.jpg" alt="service">
+                        </div><!-- /.service-img -->
+                        <div class="service-body">
+                            <h4 class="service-title">
+                                Cirugía gastrointestinal
+                            </h4>
+                            <p class="service-desc">
+                                Explorando soluciones avanzadas en cirugía gastrointestinal: Nuestro equipo altamente
+                                capacitado ofrece un enfoque integral para abordar una variedad de condiciones
+                                digestivas.
+                            </p>
+                        </div><!-- /.service-body -->
+                    </div><!-- /.service-item -->
+                    <!-- service item #3 -->
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="assets/images/services/16.jpg" alt="service">
+                        </div><!-- /.service-img -->
+                        <div class="service-body">
+                            <h4 class="service-title">
+                                Toma de biopsias
+                            </h4>
+                            <p class="service-desc">
+                                Obtenga respuestas precisas con nuestra toma de biopsias especializada. Nuestro equipo
+                                realiza procedimientos precisos y seguros para ayudar en el diagnóstico y tratamiento de
+                                diversas condiciones médicas.
+                            </p>
+                        </div><!-- /.service-body -->
+                    </div><!-- /.service-item -->
+                    <!-- service item #4 -->
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="assets/images/services/17.jpg" alt="service">
+                        </div><!-- /.service-img -->
+                        <div class="service-body">
+                            <h4 class="service-title">
+                                Tratamiento de verrugas
+                            </h4>
+                            <p class="service-desc">
+                                Libérese de las verrugas con nuestro tratamiento especializado. Nuestro equipo ofrece
+                                soluciones efectivas y seguras para eliminar verrugas de manera rápida y sin
+                                complicaciones.
+                            </p>
+                        </div><!-- /.service-body -->
+                    </div>
+                    <!-- /.service-body -->
+                    <!-- service item #5 -->
+                    <div class="service-item">
+                        <div class="service-img">
+                            <img src="assets/images/services/18.jpg" alt="service">
+                        </div><!-- /.service-img -->
+                        <div class="service-body">
+                            <h4 class="service-title">
+                                Resección de lipomas
+                            </h4>
+                            <p class="service-desc">
+                                Recupere la comodidad y la confianza con nuestra resección de lipomas. Nuestro equipo
+                                altamente capacitado ofrece un enfoque experto y seguro para eliminar lipomas de manera
+                                eficaz.
+                            </p>
+                        </div><!-- /.service-body -->
+                    </div><!-- /.service-item -->
+                </div>
+            </div><!-- /.carousel -->
+        </div><!-- /.col-12 -->
+    </div><!-- /.row -->
     </div><!-- /.container -->
 </section>
 
