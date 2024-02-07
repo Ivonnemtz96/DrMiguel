@@ -2,7 +2,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <!-- <meta name="description" content="Chemlabs - Laboratory & Science Research HTML5 Template"> -->
+    <meta name="description" content=" Médico egresado con distinción de la Universidad Nacional Autónoma de México (UNAM). Mi
+                        trayectoria profesional se ha enfocado en ofrecer atención médica de calidad">
     <link href="assets/images/favicon/favicon2.png" rel="icon">
     <title>Dr. Miguel Blanco</title>
 

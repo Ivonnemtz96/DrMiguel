@@ -627,7 +627,7 @@
 <section class="mapa" style="padding-top: 0; padding-bottom: 0;">
     <div class="container-fluid px-0">
         <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.9482943131807!2d-109.70087138038957!3d23.062357130020008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509d98cdc20b%3A0x3bcc3682ca747d7e!2sIgnacio%20Zaragoza%2C%205%20de%20Febrero%2C%20San%20Jos%C3%A9%20del%20Cabo%2C%20B.C.S.!5e0!3m2!1sen!2smx!4v1707283229196!5m2!1sen!2smx"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d771.7254479696404!2d-109.70041283704394!3d23.061723659194115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af512995777ce5%3A0xd532ddd5db5ef529!2sDr.%20Miguel%20Blanco%20-%20Laparoscopia%20y%20Cirug%C3%ADa%20General!5e0!3m2!1sen!2smx!4v1707283322024!5m2!1sen!2smx"
             width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
