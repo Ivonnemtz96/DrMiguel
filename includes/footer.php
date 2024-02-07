@@ -15,7 +15,7 @@
                                     class="social-title">Facebook</span></a>
                         </li>
                         <li>
-                            <a href="#"><i class="social-icon fab fa-instagram"></i><span
+                            <a target="_blank" href="https://www.instagram.com/drmiguel_blanco/"><i class="social-icon fab fa-instagram"></i><span
                                     class="social-title">Instagram</span></a>
                         </li>
                     </ul><!-- /.social-icons -->

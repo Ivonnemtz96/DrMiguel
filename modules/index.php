@@ -233,19 +233,39 @@
                 <a class="popup-gallery-item" href="assets/images/gallery/12.jpg">
                     <img src="assets/images/gallery/12.jpg" alt="gallery img">
                 </a>
-            </div><!-- /.gallery-img -->
-            <!-- Gallery item #2 -->
+            </div>
+
+            <div class="gallery-img">
+                <a class="popup-gallery-item" href="assets/images/gallery/18.jpg">
+                    <img src="assets/images/gallery/18.jpg" alt="gallery img">
+                </a>
+            </div>
+
             <div class="gallery-img">
                 <a class="popup-gallery-item" href="assets/images/gallery/13.jpg">
                     <img src="assets/images/gallery/13.jpg" alt="gallery img">
                 </a>
-            </div><!-- /.gallery-img -->
-            <!-- Gallery item #3 -->
+            </div>
+
+            <div class="gallery-img">
+                <a class="popup-gallery-item" href="assets/images/gallery/19.jpg">
+                    <img src="assets/images/gallery/19.jpg" alt="gallery img">
+                </a>
+            </div>
+
             <div class="gallery-img">
                 <a class="popup-gallery-item" href="assets/images/gallery/14.jpg">
                     <img src="assets/images/gallery/14.jpg" alt="gallery img">
                 </a>
-            </div><!-- /.gallery-img -->
+            </div>
+
+            <div class="gallery-img">
+                <a class="popup-gallery-item" href="assets/images/gallery/20.jpg">
+                    <img src="assets/images/gallery/20.jpg" alt="gallery img">
+                </a>
+            </div>
+
+            <!-- /.gallery-img -->
             <!-- Gallery item #4 -->
             <div class="gallery-img">
                 <a class="popup-gallery-item" href="assets/images/gallery/15.jpg">

@@ -47,7 +47,7 @@
                             <ul class="social-icons list-unstyled mb-0">
                                 <li><a target="_blank" href="https://www.facebook.com/profile.php?id=100066743874275"><i
                                             class="social-icon  fab fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="social-icon fab fa-instagram"></i></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/drmiguel_blanco/"><i class="social-icon fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
