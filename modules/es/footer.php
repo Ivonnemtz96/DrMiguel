@@ -20,7 +20,7 @@
                         </li>
                     </ul><!-- /.social-icons -->
                     <button id="scrollTopBtn">
-                        <span class="btn-text">Back To Top </span> <i class="icon-arrow-long"></i>
+                        <span class="btn-text">Subir </span> <i class="icon-arrow-long"></i>
                     </button>
                 </div>
             </div><!-- /.row -->

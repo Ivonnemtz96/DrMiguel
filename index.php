@@ -1,3 +1,6 @@
+<?
+    include('indexController.php');   
+?>
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -10,13 +13,12 @@ include('includes/head.php');
     <div class="wrapper">
         <?
         include('includes/preloader.php');
-        include('includes/header.php');
-        include('modules/index.php');
-        include('includes/footer.php');
+        include('modules/'.$lenguaje.'/header.php');
+        include('modules/'.$lenguaje.'/index.php');
+        include('modules/'.$lenguaje.'/footer.php');
     ?>
     </div>
     <?
-        include('includes/redes.php');
         include('includes/scripts.php');
     ?>
 </body>
