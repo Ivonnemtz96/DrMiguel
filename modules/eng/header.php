@@ -7,28 +7,28 @@
                         <ul class="contact-list d-flex flex-wrap align-items-center list-unstyled mb-0">
                             <li class="miniPopup-language-area">
                                 <button class="miniPopup-language-trigger shape-right" type="button">
-                                    <span>Selecciona tu lenguaje</span><span class="btn-shape"></span>
+                                    <span>Choose your language</span><span class="btn-shape"></span>
                                 </button>
                                 <ul class="miniPopup miniPopup-language list-unstyled">
                                     <li>
                                         <button>
                                             <img src="assets/images/flags/en.png" alt="en">
-                                            <span>Inglés</span>
+                                            <span>English</span>
                                         </button>
                                     </li>
                                     <li>
                                         <button>
                                             <img src="assets/images/flags/gr.png" alt="en">
-                                            <span>Español</span>
+                                            <span>Spanish</span>
                                         </button>
                                     </li>
                                 </ul><!-- /.miniPopup-language -->
                             </li>
                             <li>
                                 <p class="promo-text color-white mb-0">
-                                    Descubre la excelencia en cirugía laparoscópica con el Dr. Miguel.
+                                Discover excellence in laparoscopic surgery with Dr. Miguel.
                                     <a href="index.php#about">
-                                        <span>Sobre mi</span>
+                                        <span>About me</span>
                                         <i class="icon-arrow-right"></i>
                                     </a>
                                 </p>
@@ -37,7 +37,7 @@
                         <div class="d-flex">
                             <ul class="contact-list d-flex flex-wrap align-items-center list-unstyled mb-0 mr-30">
                                 <li>
-                                    <i class="icon-location"></i><a href="#">Dirección: Calle Ignacio Zaragoza, San José
+                                    <i class="icon-location"></i><a href="#">Address: Calle Ignacio Zaragoza, San José
                                         del Cabo</a>
                                 </li>
                                 <!-- <li>
@@ -67,28 +67,28 @@
             <div class="collapse navbar-collapse justify-content-center" id="mainNavigation">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a href="index.php" class=" nav-item-link">Inicio</a>
+                        <a href="index.php" class=" nav-item-link">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php#about" class="nav-item-link">Sobre mi</a>
+                        <a href="index.php#about" class="nav-item-link">About Me</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php#gallery" class="nav-item-link">Galería</a>
+                        <a href="index.php#gallery" class="nav-item-link">Gallery</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php#services" class="nav-item-link">Servicios</a>
+                        <a href="index.php#services" class="nav-item-link">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php#contact" class="nav-item-link">Contacto</a>
+                        <a href="index.php#contact" class="nav-item-link">Contact us</a>
                     </li>
                     <li class="nav-item has-dropdown dropdown d-block d-lg-none">
-                        <a href="#" class="nav-item-link dropdown-toggle" data-bs-toggle="dropdown">Idioma</a>
+                        <a href="#" class="nav-item-link dropdown-toggle" data-bs-toggle="dropdown">Language</a>
                         <ul class="dropdown-menu">
                             <li class="nav-item">
-                                <a href="#" class="nav-item-link">Español</a>
+                                <a href="#" class="nav-item-link">Spanish</a>
                             </li><!-- /.nav-item -->
                             <li class="nav-item">
-                                <a href="#" class="nav-item-link">Inglés</a>
+                                <a href="#" class="nav-item-link">English</a>
                             </li><!-- /.nav-item -->
                         </ul><!-- /.dropdown-menu -->
                     </li>
@@ -99,12 +99,12 @@
             <div class="d-none d-xl-flex align-items-center position-relative ml-30">
                 <ul class="header-actions d-flex align-items-center position-relative list-unstyled mb-0">
                     <li>
-                        <a href="index.php#contact" class="btn btn-secondary btn-contact">Citas</a>
+                        <a href="index.php#contact" class="btn btn-secondary btn-contact">Appointment</a>
                     </li>
                     <li class="contact-phone d-flex align-items-center">
                         <div class="contact-icon"><i class="icon-phone"></i></div>
                         <div>
-                            <span class="d-block">Márcanos:</span>
+                            <span class="d-block">Call us:</span>
                             <a class="phone-link d-block" target="_blank" href="tel:+525537189326">+525537189326</a>
                         </div>
                     </li>
