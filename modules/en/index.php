@@ -94,7 +94,7 @@
             <div class="col-sm-12 col-md-10 col-lg-10 col-xl-5">
                 <div class="about-text">
                     <p class="color-secondary mb-30">
-                        Physician graduated with distinction from the National Autonomous University of Mexico (UNAM).
+                        Physician graduated with distinction from the Universidad Nacional Autónoma de México (UNAM).
                         My professional career has focused on providing quality medical care, backed by a solid academic
                         background and a passion for health care.
                     </p>
@@ -331,7 +331,8 @@
                             <a href="#">Surgery for hiatal hernia (laparoscopic fundoplication)</a>
                         </h4>
                         <p>
-                        Regain gastrointestinal wellness with our advanced technique and experience a faster and more comfortable recovery.
+                            Regain gastrointestinal wellness with our advanced technique and experience a faster and
+                            more comfortable recovery.
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
@@ -346,7 +347,8 @@
                             <a href="#">Umbilical hernia repair</a>
                         </h4>
                         <p>
-                        Relief and recovery with our umbilical hernia repair. Our expert, minimally invasive approach offers you a safe and effective solution to restore abdominal health.
+                            Relief and recovery with our umbilical hernia repair. Our expert, minimally invasive
+                            approach offers you a safe and effective solution to restore abdominal health.
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
@@ -361,7 +363,8 @@
                             <a href="#">Thyroid surgery</a>
                         </h4>
                         <p>
-                        Our specialized team offers advanced surgical solutions to treat thyroid conditions with precision and care. conditions with precision and care. <br>
+                            Our specialized team offers advanced surgical solutions to treat thyroid conditions with
+                            precision and care. conditions with precision and care. <br>
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
@@ -369,14 +372,15 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/13.jpg" alt="service">
+                        <img src="assets/images/services/13.jpg?=1" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
                             <a href="#">Laparoscopic appendectomy</a>
                         </h4>
                         <p>
-                        Our highly trained team ensures precise surgery and faster recovery. Trust us for safe and effective treatment of your appendicitis.
+                            Our highly trained team ensures precise surgery and faster recovery. Trust us for safe and
+                            effective treatment of your appendicitis.
                         </p>
                     </div><!-- /.service-body -->
                 </div><!-- /.service-item -->
@@ -390,7 +394,7 @@
             <div class="col-12">
                 <div class="heading text-center mb-50">
                     <h3 class="heading-subtitle color-primary">Others </h3>
-                    <h3 class="heading-title">Procedures and conditions</h3>
+                    <h3 class="heading-title">Treatment for warts</h3>
                 </div><!-- /.heading-layout2 -->
             </div><!-- /.col-xl-6 -->
         </div><!-- /.row -->
@@ -405,10 +409,12 @@
                         </div><!-- /.service-img -->
                         <div class="service-body">
                             <h4 class="service-title">
-                            Diabetic foot
+                                Diabetic foot
                             </h4>
                             <p class="service-desc">
-                            Meeting the challenge of diabetic foot: our specialized team offers a comprehensive approach to the management and treatment of this condition. From prevention to advanced care, we are committed to safeguarding your health and well-being.
+                                Meeting the challenge of diabetic foot: our specialized team offers a comprehensive
+                                approach to the management and treatment of this condition. From prevention to advanced
+                                care, we are committed to safeguarding your health and well-being.
                             </p>
                         </div><!-- /.service-body -->
                     </div><!-- /.service-item -->
@@ -419,10 +425,11 @@
                         </div><!-- /.service-img -->
                         <div class="service-body">
                             <h4 class="service-title">
-                            Gastrointestinal surgery
+                                Gastrointestinal surgery
                             </h4>
                             <p class="service-desc">
-                            Exploring advanced solutions in gastrointestinal surgery: Our highly skilled team offers a comprehensive approach to address a variety of digestive conditions.
+                                Exploring advanced solutions in gastrointestinal surgery: Our highly skilled team offers
+                                a comprehensive approach to address a variety of digestive conditions.
                             </p>
                         </div><!-- /.service-body -->
                     </div><!-- /.service-item -->
@@ -433,10 +440,11 @@
                         </div><!-- /.service-img -->
                         <div class="service-body">
                             <h4 class="service-title">
-                            Biopsies
+                                Biopsies
                             </h4>
                             <p class="service-desc">
-                            Get accurate answers with our specialized biopsy taking. Our team performs accurate and safe procedures to aid in the diagnosis and treatment of various medical conditions.
+                                Get accurate answers with our specialized biopsy taking. Our team performs accurate and
+                                safe procedures to aid in the diagnosis and treatment of various medical conditions.
                             </p>
                         </div><!-- /.service-body -->
                     </div><!-- /.service-item -->
@@ -447,10 +455,11 @@
                         </div><!-- /.service-img -->
                         <div class="service-body">
                             <h4 class="service-title">
-                            Treatment of warts
+                                Treatment of warts
                             </h4>
                             <p class="service-desc">
-                            Get rid of warts with our specialized treatment. Our team offers effective and safe solutions to remove warts quickly and without complications.
+                                Get rid of warts with our specialized treatment. Our team offers effective and safe
+                                solutions to remove warts quickly and without complications.
                             </p>
                         </div><!-- /.service-body -->
                     </div>
@@ -462,10 +471,11 @@
                         </div><!-- /.service-img -->
                         <div class="service-body">
                             <h4 class="service-title">
-                            Resection of lipomas
+                                Resection of lipomas
                             </h4>
                             <p class="service-desc">
-                            Regain comfort and confidence with our lipoma resection. Our highly trained team offers an expert and safe approach to effectively remove lipomas.
+                                Regain comfort and confidence with our lipoma resection. Our highly trained team offers
+                                an expert and safe approach to effectively remove lipomas.
                             </p>
                         </div><!-- /.service-body -->
                     </div><!-- /.service-item -->
@@ -484,7 +494,7 @@
                     <h2 class="heading-subtitle">Would you like to schedule an appointment?</h2>
                     <h3 class="heading-title mb-30">Schedule an appraisal appointment</h3>
                     <p class="heading-desc fw-bold">
-                    Use our contact form on the website and let us provide you with the information you need.
+                        Use our contact form on the website and let us provide you with the information you need.
                     </p>
                 </div>
                 <div class="testimonials-layout2 testimonials-light mb-50">
@@ -494,17 +504,14 @@
                         <!-- Testimonial #1 -->
                         <div class="testimonial-item">
                             <h3 class="testimonial-title">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, voluptate! Eos est
-                                nemo voluptate. Debitis ab voluptatem culpa quod asperiores quae cupiditate ea
-                                consectetur fuga.
+                                Professional and skilled doctor, very caring as well, I highly recommend him.
                             </h3>
                         </div><!-- /. testimonial-item -->
                         <!-- Testimonial #2 -->
                         <div class="testimonial-item">
                             <h3 class="testimonial-title">
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et
-                                aut eligendi facilis doloribus, accusamus, voluptas in praesentium sunt accusantium
-                                saepe consequuntur assumenda dolor, dolorum veniam.
+                                I had not met someone with excellent professionalism, the surgery was perfect, very
+                                professional in everything.
                             </h3>
                         </div><!-- /. testimonial-item -->
                     </div><!-- /.slick-carousel -->
@@ -531,7 +538,7 @@
             <div class="col-sm-12 col-md-12 col-lg-7 d-flex flex-column justify-content-between">
                 <div class="contact-panel mt-20">
                     <form class="contact-panel-form" id="contactForm">
-                        <h4 class="contact-panel-title">Book A  Visit</h4>
+                        <h4 class="contact-panel-title">Book A Visit</h4>
                         <p class="contact-panel-desc">Please feel welcome to contact our friendly reception staff with
                             any
                             general or medical enquiry.
@@ -552,7 +559,8 @@
                             <div class="col-sm-12 col-md-6 col-lg-6">
                                 <div class="form-group">
                                     <label for="phone">Phone number *</label>
-                                    <input type="text" class="form-control" placeholder="Phone number" id="phone" required>
+                                    <input type="text" class="form-control" placeholder="Phone number" id="phone"
+                                        required>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">

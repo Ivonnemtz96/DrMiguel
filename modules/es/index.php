@@ -385,7 +385,7 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="service-item">
                     <div class="service-img">
-                        <img src="assets/images/services/13.jpg" alt="service">
+                        <img src="assets/images/services/13.jpg?=1" alt="service">
                     </div><!-- /.service-img -->
                     <div class="service-body">
                         <h4 class="service-title">
@@ -525,17 +525,14 @@
                         <!-- Testimonial #1 -->
                         <div class="testimonial-item">
                             <h3 class="testimonial-title">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, voluptate! Eos est
-                                nemo voluptate. Debitis ab voluptatem culpa quod asperiores quae cupiditate ea
-                                consectetur fuga.
+                                Médico profesional y capacitado, muy cuidadoso también, lo recomiendo mucho.
                             </h3>
                         </div><!-- /. testimonial-item -->
                         <!-- Testimonial #2 -->
                         <div class="testimonial-item">
                             <h3 class="testimonial-title">
-                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et
-                                aut eligendi facilis doloribus, accusamus, voluptas in praesentium sunt accusantium
-                                saepe consequuntur assumenda dolor, dolorum veniam.
+                                No había conocido a alguien con excelente profesionalismo, la cirugía quedó perfecta,
+                                muy profesional en todo.
                             </h3>
                         </div><!-- /. testimonial-item -->
                     </div><!-- /.slick-carousel -->
