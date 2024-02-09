@@ -18,17 +18,17 @@ try {
     //Server settings
     $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.bananagroup.mx';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.drmiguelblanco.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'seo@bananagroup.mx';    //SMTP username
-    $mail->Password   = 'Banana2023#';                        //SMTP password
+    $mail->Username   = 'info@drmiguelblanco.com';    //SMTP username
+    $mail->Password   = '9YNcmLQ12M';                        //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;                                  //Enable implicit TLS encryption
     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
     $slh = "Dr. Miguel Blanco";
     //Recipients
-    $mail->setFrom('seo@bananagroup.mx', $slh); //QUIEN MANDA, CON EL NOMBRE
+    $mail->setFrom('info@drmiguelblanco.com', $slh); //QUIEN MANDA, CON EL NOMBRE
     $mail->addAddress($correo, $nombre); //QUIEN RECIB
 
     //Content

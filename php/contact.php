@@ -27,7 +27,7 @@ if (!validarVariable($nombre) || !validarVariable($correo) || !validarVariable($
   mandarError("1");
 }
 
-$correo_nuevo = new Correo("seo@bananagroup.mx", $nombre.' ha enviado un nuevo mensaje');
+$correo_nuevo = new Correo("info@drmiguelblanco.com", $nombre.' ha enviado un nuevo mensaje');
 $correo_nuevo->agregarCampos("Nombre: ", $nombre);
 $correo_nuevo->agregarCampos("Correo: ", $correo);
 $correo_nuevo->agregarCampos("Teléfono: ", $tel);
