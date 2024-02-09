@@ -27,7 +27,7 @@
                             <li>
                                 <p class="promo-text color-white mb-0">
                                     Descubre la excelencia en cirugía laparoscópica con el Dr. Miguel.
-                                    <a href="index.php#about">
+                                    <a href="/#about">
                                         <span>Sobre mi</span>
                                         <i class="icon-arrow-right"></i>
                                     </a>
@@ -58,7 +58,7 @@
     </div><!-- /.header-top -->
     <nav class="navbar navbar-expand-lg sticky-navbar">
         <div class="container-fluid">
-            <a class="navbar-brand" href="index.php">
+            <a class="navbar-brand" href="/">
                 <img style="width: 15rem;" src="assets/images/logo/02.png" class="Dr. Miguel Blanco" alt="logo">
             </a>
             <button class="navbar-toggler" type="button">
@@ -67,19 +67,19 @@
             <div class="collapse navbar-collapse justify-content-center" id="mainNavigation">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a href="index.php" class=" nav-item-link">Inicio</a>
+                        <a href="/" class=" nav-item-link">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php#about" class="nav-item-link">Sobre mi</a>
+                        <a href="/#about" class="nav-item-link">Sobre mi</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php#gallery" class="nav-item-link">Galería</a>
+                        <a href="/#gallery" class="nav-item-link">Galería</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php#services" class="nav-item-link">Servicios</a>
+                        <a href="/#services" class="nav-item-link">Servicios</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php#contact" class="nav-item-link">Contacto</a>
+                        <a href="/#contact" class="nav-item-link">Contacto</a>
                     </li>
                     <li class="nav-item has-dropdown dropdown d-block d-lg-none">
                         <a href="#" class="nav-item-link dropdown-toggle" data-bs-toggle="dropdown">Idioma</a>
@@ -99,7 +99,7 @@
             <div class="d-none d-xl-flex align-items-center position-relative ml-30">
                 <ul class="header-actions d-flex align-items-center position-relative list-unstyled mb-0">
                     <li>
-                        <a href="index.php#contact" class="btn btn-secondary btn-contact">Citas</a>
+                        <a href="/#contact" class="btn btn-secondary btn-contact">Citas</a>
                     </li>
                     <li class="contact-phone d-flex align-items-center">
                         <div class="contact-icon"><i class="icon-phone"></i></div>
