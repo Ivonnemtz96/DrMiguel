@@ -12,4 +12,6 @@
     <link rel="stylesheet" href="use.fontawesome.com/releases/v5.15.1/css/all.css">
     <link rel="stylesheet" href="assets/css/libraries.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <!-- captcha -->
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>

@@ -537,7 +537,7 @@
             </div><!-- /.col-lg-5 -->
             <div class="col-sm-12 col-md-12 col-lg-7 d-flex flex-column justify-content-between">
                 <div class="contact-panel mt-20">
-                    <form class="contact-panel-form" id="contactForm">
+                    <form class="contact-panel-form"  action="/php/contact.php" method="POST">
                         <h4 class="contact-panel-title">Book A Visit</h4>
                         <p class="contact-panel-desc">Please feel welcome to contact our friendly reception staff with
                             any
@@ -547,20 +547,22 @@
                             <div class="col-sm-12 col-md-12 col-lg-12">
                                 <div class="form-group">
                                     <label for="name">Name *</label>
-                                    <input type="text" class="form-control" placeholder="Name" id="name" required>
+                                    <input type="text" class="form-control" placeholder="Name" name="nombre" id="name"
+                                        required>
                                 </div>
                             </div><!-- /.col-lg-6 -->
                             <div class="col-sm-12 col-md-6 col-lg-6">
                                 <div class="form-group">
                                     <label for="email">Email *</label>
-                                    <input type="email" class="form-control" placeholder="Email" id="email" required>
+                                    <input type="email" class="form-control" placeholder="Email" name="correo"
+                                        id="email" required>
                                 </div>
                             </div><!-- /.col-lg-6 -->
                             <div class="col-sm-12 col-md-6 col-lg-6">
                                 <div class="form-group">
                                     <label for="phone">Phone number *</label>
-                                    <input type="text" class="form-control" placeholder="Phone number" id="phone"
-                                        required>
+                                    <input type="text" class="form-control" placeholder="Phone number" name="tel"
+                                        id="phone" required>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-12 col-lg-12">
@@ -568,6 +570,12 @@
                                     <label for="name">Message *</label>
                                     <textarea class="form-control" placeholder="Type your message" name="msj" id=""
                                         cols="30" rows="10" required></textarea>
+                                </div>
+                            </div>
+                            <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
+                                <div class="col-12 col-md-12">
+                                    <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
+                                        required></div>
                                 </div>
                             </div>
                             <div class="col-12">
