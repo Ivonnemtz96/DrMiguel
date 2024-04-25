@@ -15,6 +15,9 @@ if (isset($_GET)) {
 ?>
 
 <body>
+    <?
+        include('includes/tagBody.php');
+    ?>
     <div class="wrapper">
         <?
         include('includes/preloader.php');
